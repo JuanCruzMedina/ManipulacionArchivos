@@ -1,0 +1,22 @@
+SOLID
+
+- Single Responsability Principle
+
+    Una clase debe tener una sola razón para cambiar.
+    Una responsabilidad se centra en 2 preguntas: ¿Qué hace una clase? y ¿A quien conoce la clase?
+    El objetivo principal dee SRP es mantener la alta cohesión.
+    Cada clase debe tener la responsabilidad sobre una sola pate de la funcionalidad proporcionada por el software, y esa responsabilidad debe estar completamente encapsulada por la clase.
+
+
+- Open/Close Principle
+
+    El comportamiento de una entidad debe poder ser alterado si tener que modificar su propio codigo fuente.
+    Una clase no se puede modificar, pero si se puede extender haciendo uso de la herencia.
+    Una clase solo debe ser modificada si existe un bug, para no romper funcionalidades en modulos dependientes.
+    Se centra en mantener un bajo Acoplamiento.
+    
+- Liskov Substitution Principle
+
+- Interface Segregation Principle
+- Dependency Inversion Principle
+

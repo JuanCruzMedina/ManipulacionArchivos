@@ -1,0 +1,21 @@
+C:\Users\juan_\source\repos\MetodosExtension\MetodosExtension\obj\Debug\MetodosExtension.csproj.AssemblyReference.cache
+C:\Users\juan_\source\repos\MetodosExtension\MetodosExtension\obj\Debug\MetodosExtension.csproj.CoreCompileInputs.cache
+C:\Users\juan_\source\repos\MetodosExtension\MetodosExtension\bin\Debug\MetodosExtension.exe.config
+C:\Users\juan_\source\repos\MetodosExtension\MetodosExtension\bin\Debug\MetodosExtension.exe
+C:\Users\juan_\source\repos\MetodosExtension\MetodosExtension\bin\Debug\MetodosExtension.pdb
+C:\Users\juan_\source\repos\MetodosExtension\MetodosExtension\obj\Debug\MetodosExtension.exe
+C:\Users\juan_\source\repos\MetodosExtension\MetodosExtension\obj\Debug\MetodosExtension.pdb
+C:\Users\Procoop\Desktop\Juan\ManipulacionArchivos\ManipulacionArchivos\MetodosExtension\bin\Debug\MetodosExtension.exe.config
+C:\Users\Procoop\Desktop\Juan\ManipulacionArchivos\ManipulacionArchivos\MetodosExtension\bin\Debug\MetodosExtension.exe
+C:\Users\Procoop\Desktop\Juan\ManipulacionArchivos\ManipulacionArchivos\MetodosExtension\bin\Debug\MetodosExtension.pdb
+C:\Users\Procoop\Desktop\Juan\ManipulacionArchivos\ManipulacionArchivos\MetodosExtension\obj\Debug\MetodosExtension.csproj.AssemblyReference.cache
+C:\Users\Procoop\Desktop\Juan\ManipulacionArchivos\ManipulacionArchivos\MetodosExtension\obj\Debug\MetodosExtension.csproj.CoreCompileInputs.cache
+C:\Users\Procoop\Desktop\Juan\ManipulacionArchivos\ManipulacionArchivos\MetodosExtension\obj\Debug\MetodosExtension.exe
+C:\Users\Procoop\Desktop\Juan\ManipulacionArchivos\ManipulacionArchivos\MetodosExtension\obj\Debug\MetodosExtension.pdb
+C:\Users\juan_\Desktop\Juan Cruz\C#\Manipulacion de Archivos\ManipulacionArchivos\MetodosExtension\bin\Debug\MetodosExtension.exe.config
+C:\Users\juan_\Desktop\Juan Cruz\C#\Manipulacion de Archivos\ManipulacionArchivos\MetodosExtension\bin\Debug\MetodosExtension.exe
+C:\Users\juan_\Desktop\Juan Cruz\C#\Manipulacion de Archivos\ManipulacionArchivos\MetodosExtension\bin\Debug\MetodosExtension.pdb
+C:\Users\juan_\Desktop\Juan Cruz\C#\Manipulacion de Archivos\ManipulacionArchivos\MetodosExtension\obj\Debug\MetodosExtension.csproj.AssemblyReference.cache
+C:\Users\juan_\Desktop\Juan Cruz\C#\Manipulacion de Archivos\ManipulacionArchivos\MetodosExtension\obj\Debug\MetodosExtension.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Desktop\Juan Cruz\C#\Manipulacion de Archivos\ManipulacionArchivos\MetodosExtension\obj\Debug\MetodosExtension.exe
+C:\Users\juan_\Desktop\Juan Cruz\C#\Manipulacion de Archivos\ManipulacionArchivos\MetodosExtension\obj\Debug\MetodosExtension.pdb

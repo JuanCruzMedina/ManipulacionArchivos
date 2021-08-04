@@ -1,0 +1,7 @@
+C:\Users\juan_\Desktop\Juan Cruz\C#\Manipulacion de Archivos\ManipulacionArchivos\MetodosExtension\bin\Debug\ManipulacionArchivos.exe.config
+C:\Users\juan_\Desktop\Juan Cruz\C#\Manipulacion de Archivos\ManipulacionArchivos\MetodosExtension\bin\Debug\ManipulacionArchivos.exe
+C:\Users\juan_\Desktop\Juan Cruz\C#\Manipulacion de Archivos\ManipulacionArchivos\MetodosExtension\bin\Debug\ManipulacionArchivos.pdb
+C:\Users\juan_\Desktop\Juan Cruz\C#\Manipulacion de Archivos\ManipulacionArchivos\MetodosExtension\obj\Debug\ManipulacionArchivos.csproj.AssemblyReference.cache
+C:\Users\juan_\Desktop\Juan Cruz\C#\Manipulacion de Archivos\ManipulacionArchivos\MetodosExtension\obj\Debug\ManipulacionArchivos.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Desktop\Juan Cruz\C#\Manipulacion de Archivos\ManipulacionArchivos\MetodosExtension\obj\Debug\ManipulacionArchivos.exe
+C:\Users\juan_\Desktop\Juan Cruz\C#\Manipulacion de Archivos\ManipulacionArchivos\MetodosExtension\obj\Debug\ManipulacionArchivos.pdb

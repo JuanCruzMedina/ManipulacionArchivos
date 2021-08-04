@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1D7D16AF-FB0C-45F4-9FB4-40689498D3D2}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>ManipulacionArchivos</RootNamespace>
+    <AssemblyName>ManipulacionArchivos</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Model\AbstractClass\Body.cs" />
+    <Compile Include="Model\AbstractClass\Footer.cs" />
+    <Compile Include="Model\AbstractClass\File.cs" />
+    <Compile Include="Model\AbstractClass\Format.cs" />
+    <Compile Include="Model\AbstractClass\Header.cs" />
+    <Compile Include="Model\AbstractClass\Parameter.cs" />
+    <Compile Include="Model\Class\ExporterPart\FormatRedLink.cs" />
+    <Compile Include="Model\Class\FileParameter.cs" />
+    <Compile Include="Model\Class\Files\FileBanelco.cs" />
+    <Compile Include="Model\Class\Files\RedLinkFile.cs" />
+    <Compile Include="Model\Interface\IBodyParameter.cs" />
+    <Compile Include="Model\Interface\IExportable.cs" />
+    <Compile Include="Model\Interface\IFile.cs" />
+    <Compile Include="Model\Interface\IFileParameter.cs" />
+    <Compile Include="Model\Interface\IFormat.cs" />
+    <Compile Include="Model\Interface\IImportParameter.cs" />
+    <Compile Include="Model\Class\Entity\Banelco.cs" />
+    <Compile Include="Model\Class\Entity\Nacion.cs" />
+    <Compile Include="Model\Class\Entity\RedLink.cs" />
+    <Compile Include="Model\Class\ExporterPart\BodyRedLink.cs" />
+    <Compile Include="Model\Class\ExporterPart\FooterRedLink.cs" />
+    <Compile Include="Model\Class\ExporterPart\HeaderRedLink.cs" />
+    <Compile Include="Model\AbstractClass\Entity.cs" />
+    <Compile Include="Model\Interface\IParameter.cs" />
+    <Compile Include="Model\Interface\IPart.cs" />
+    <Compile Include="Model\Interface\IResponse.cs" />
+    <Compile Include="Model\Class\Response.cs" />
+    <Compile Include="Model\AbstractClass\Part.cs" />
+    <Compile Include="Model\StaticClass\Control.cs" />
+    <Compile Include="Model\Validation\Validation.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
